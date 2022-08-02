@@ -1,7 +1,10 @@
 # yelpapiapp
 
-Desciption:
+Description:
 - Single activity app with one screen, that shows list of restaurants from specific address. The list is received from Yelp API.
+
+Purpose:
+- Show modern stack of technologies
 
 Stack:
  - Kotlin only app
@@ -13,3 +16,5 @@ Stack:
  - Moshi for parse JSON into objects
  - Coil for downloading images from internet
  - Testing: mockk, spek
+ 
+ P.S. Purpose 
